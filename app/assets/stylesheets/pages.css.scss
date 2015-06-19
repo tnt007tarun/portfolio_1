@@ -1,0 +1,52 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.main { 
+  height: 500px;
+  background: url(https://photos-5.dropbox.com/t/2/AACQ-6afv1g3hv1W4MGjXF7UH7C-GSfbsZcrf8yjsPEwGg/12/363406242/jpeg/32x32/1/_/1/2/chicago-796121_1920.jpg/CKLHpK0BIAEgAiADIAQgBSAGIAcoASgC/-Q1_BqJljeRGrF2eJxsuT_zM0nKghmDgqiI7OhJ7X3s?size=1600x1200&size_mode=2) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.nav-links {
+  background-color: #333;
+  height: 40px;
+}
+
+.hllist li {
+vertical-align: middle;
+display: inline;
+font-color: white;
+padding: 15px;
+}
+
+.navbar-brand {
+
+}
+
+.tagline {
+	margin: auto;
+	vertical-align: middle;
+	text-align: center;
+	color: white;
+	font-family: "Raleway",sans-serif;
+	font-weight: 600;
+	font-size: 30px;
+	margin-top: 225px;
+	margin-bottom: 80px;
+}
+
+.footer-links {
+margin: auto;
+text-align: center;
+}
+
+.footer-links li {
+text-align: center;
+display: inline;
+background: white;
+padding: 45px;
+}
