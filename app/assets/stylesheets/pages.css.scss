@@ -9,6 +9,7 @@
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  margin-top: -20px;
 }
 
 .nav-links {
@@ -21,6 +22,14 @@ vertical-align: middle;
 display: inline;
 font-color: white;
 padding: 15px;
+}
+
+.navbar { 
+background-color: #333;
+}
+
+.head { 
+background-color: #333;
 }
 
 .navbar-brand {
@@ -41,6 +50,7 @@ padding: 15px;
 
 .footer-links {
 margin: auto;
+margin-top: 10px;
 text-align: center;
 }
 
